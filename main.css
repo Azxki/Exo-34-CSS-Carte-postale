@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Amiri, sans-serif;
+}
+
+.carte {
+    box-shadow: 2px 1px 10px 6px #858585;
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+
+.form {
+    border: 1px solid black;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    margin-left: 1400px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.paragraphe {
+    margin-left: 100px;
+    margin-top: 20px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.hr1 {
+    position: absolute;
+    border: 1px solid black;
+    margin-top: -400px;
+    margin-bottom: 100px;
+    margin-left: 700px;
+    margin-right: 130px;
+    padding-top: 350px;
+}
+
+.hr2 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 900px;
+    margin-bottom: 150px;
+    margin-top: -250px;
+    padding-left: 400px;
+}
+
+.hr3 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 900px;
+    margin-bottom: 150px;
+    margin-top: -200px;
+    padding-left: 400px;
+}
+
+.hr4 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 900px;
+    margin-bottom: 150px;
+    margin-top: -150px;
+    padding-left: 400px;
+}
+
+.hr5 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 1100px;
+    margin-bottom: 150px;
+    margin-top: -100px;
+    padding-left: 200px;
+}
+
+.hr6 {
+    border: 1px solid black;
+    margin-left: 1000px;
+    margin-bottom: 30px;
+    margin-top: -130px;
+    margin-right: 500px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+.hr7 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 960px;
+    margin-bottom: 30px;
+    margin-top: -82px;
+    margin-right: 500px;
+    padding-left: 27px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+.hr8 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 920px;
+    margin-bottom: 30px;
+    margin-top: -82px;
+    margin-right: 500px;
+    padding-left: 27px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
