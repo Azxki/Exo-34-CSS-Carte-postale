@@ -7,23 +7,25 @@
 
 .carte {
     box-shadow: 2px 1px 10px 6px #858585;
-    width: 80%;
-    margin-left: 200px;
+    width: 40%;
+    margin-left: 600px;
     margin-top: 300px;
+    padding-top: 100px;
 }
 
 .form {
     border: 1px solid black;
     padding-right: 50px;
     padding-bottom: 100px;
-    margin-left: 1400px;
+    margin-left: 630px;
     position: absolute;
-    margin-top: 20px;
+    margin-top: -80px;
+    margin-bottom: 300px;
 }
 
 .paragraphe {
-    margin-left: 100px;
-    margin-top: 20px;
+    margin-left: 40px;
+    margin-top: -100px;
     padding-top: 150px;
     padding-bottom: 150px;
 }
@@ -31,44 +33,44 @@
 .hr1 {
     position: absolute;
     border: 1px solid black;
-    margin-top: -400px;
+    margin-top: -410px;
     margin-bottom: 100px;
-    margin-left: 700px;
+    margin-left: 380px;
     margin-right: 130px;
-    padding-top: 350px;
+    padding-top: 450px;
 }
 
 .hr2 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 900px;
+    margin-left: 400px;
     margin-bottom: 150px;
     margin-top: -250px;
-    padding-left: 400px;
+    padding-left: 350px;
 }
 
 .hr3 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 900px;
+    margin-left: 400px;
     margin-bottom: 150px;
     margin-top: -200px;
-    padding-left: 400px;
+    padding-left: 350px;
 }
 
 .hr4 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 900px;
+    margin-left: 400px;
     margin-bottom: 150px;
     margin-top: -150px;
-    padding-left: 400px;
+    padding-left: 350px;
 }
 
 .hr5 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 1100px;
+    margin-left: 550px;
     margin-bottom: 150px;
     margin-top: -100px;
     padding-left: 200px;
@@ -76,11 +78,11 @@
 
 .hr6 {
     border: 1px solid black;
-    margin-left: 1000px;
-    margin-bottom: 30px;
-    margin-top: -130px;
+    margin-left: 400px;
+    margin-bottom: 120px;
+    margin-top: -122px;
     margin-right: 500px;
-    padding-left: 20px;
+    padding-left: 27px;
     padding-bottom: 20px;
     padding-top: 30px;
     padding-right: 10px;
@@ -89,9 +91,9 @@
 .hr7 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 960px;
-    margin-bottom: 30px;
-    margin-top: -82px;
+    margin-left: 450px;
+    margin-bottom: 120px;
+    margin-top: -172px;
     margin-right: 500px;
     padding-left: 27px;
     padding-bottom: 20px;
@@ -102,9 +104,9 @@
 .hr8 {
     position: absolute;
     border: 1px solid black;
-    margin-left: 920px;
-    margin-bottom: 30px;
-    margin-top: -82px;
+    margin-left: 500px;
+    margin-bottom: 120px;
+    margin-top: -172px;
     margin-right: 500px;
     padding-left: 27px;
     padding-bottom: 20px;
